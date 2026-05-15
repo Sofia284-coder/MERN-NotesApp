@@ -82,5 +82,6 @@ npm run dev
 * Developed for educational purposes to strengthen my portfolio in web development.
 
 ```
-
+https://github.com/burakorkmez/mern-thinkboard
+https://youtu.be/F9gB5b4jgOI?si=SfUsDz98UI2HBI5_
 ```
